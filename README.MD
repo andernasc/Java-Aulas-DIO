@@ -6,7 +6,7 @@
 
 
 
-## 💻 Projeto
+## 💻 Aulas
 
 Script das Aulas do curso Java da DIO (Digital Innovation One), apresentado pelos professores: André Gomes e João Paulo.
 
